@@ -1,4 +1,4 @@
-# SOC Lab #02 — Windows Event Logs Investigation
+# SOC Lab — Windows Event Logs Investigation
 
 ## Overview
 
